@@ -36,3 +36,42 @@ body {background-image: url("37745694_1073876096110777_8885802236047785984_n.jpg
   right: 0;
   height: 100%;
 }
+
+
+
+
+
+.btn-social-phone a {
+  text-decoration: none;
+  line-height: 70px;
+  font-size: 18px;
+  margin: 5px;
+}
+.btn-social-phone .fa-stack-2x {
+  color: black;
+  font-size:70px;
+}
+.btn-social-phone .fa-stack-1x{
+  display: inline-block;  
+  position: relative;
+  font-size: 20px;
+  top: 12px;
+  left:5px;
+  transition: .4s;
+}
+.btn-social-phone-twitter {
+  color: #74c1f8;
+}
+.btn-social-phone-facebook {
+  color: #668ad8;
+}
+.btn-social-phone-pocket {
+  color: #f79393;
+}
+.btn-social-phone-feedly {
+  color: #acde71;
+}
+.btn-social-phone a:hover .fa-stack-1x {
+  -webkit-transform: rotateX(360deg);
+  transform: rotateX(360deg);
+}
