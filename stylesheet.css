@@ -45,11 +45,7 @@ body {background-image: url("37745694_1073876096110777_8885802236047785984_n.jpg
 
 
 
-.container {
-  font-family: "Yu Gothic", YuGothic, Verdana, 'Hiragino Kaku Gothic ProN','Hiragino Kaku Gothic Pro', 'ヒラギノ角ゴ Pro W3', 'メイリオ', Meiryo, sans-serif;
-  text-align: center;
-  padding-top: 40px;
-}
+
 .btn-open {
   display: inline-block;
   width: 170px;
