@@ -126,3 +126,36 @@ body {background-image: url("37745694_1073876096110777_8885802236047785984_n.jpg
   transform: rotate(10deg);
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+.btn-circle-border-double {
+  display: inline-block;
+  text-decoration: none;
+  color: #668ad8;
+  width: 120px;
+  height: 120px;
+  line-height: 120px;
+  border-radius: 50%;
+  border: double 4px #668ad8;
+  text-align: center;
+  overflow: hidden;
+  transition: .6s;
+}
+
+.btn-circle-border-double:hover {
+  -webkit-transform: rotateY(360deg);
+  transform: rotateY(360deg);
+}
+
+
