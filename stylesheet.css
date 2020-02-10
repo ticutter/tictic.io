@@ -94,7 +94,7 @@ body {background-image: url("37745694_1073876096110777_8885802236047785984_n.jpg
   background-color: #9ec34b;
   font-size: 16px;
   line-height: 52px;
-  color: #FFF;
+  color: #;
   text-decoration: none;
   font-weight: bold;
   border: 2px solid #9ec34b;
@@ -127,4 +127,9 @@ body {background-image: url("37745694_1073876096110777_8885802236047785984_n.jpg
   opacity: 1;
 }
 
+
+* { 
+    margin: 0px; 
+    padding: 0px; 
+}
 
