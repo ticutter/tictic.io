@@ -109,7 +109,7 @@ body {background-image: url("37745694_1073876096110777_8885802236047785984_n.jpg
   position: absolute;
   top: 50%;
   left: 50%;
-  background : #FFF;
+  background : #483d8b;
   opacity: 0;
   transform: translateX(-50%) translateY(-50%) rotate(45deg);
   transition: .2s;
